@@ -1,2 +1,2 @@
 # skill-gdd-writer
-A skill to teach an agent a format for writing GDDs
+A skill to teach an agent a format for writing Game Design Documents.
